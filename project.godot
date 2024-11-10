@@ -10,6 +10,6 @@ config_version=5
 
 [application]
 
-config/name="p5yg3n Toolkit"
-config/features=PackedStringArray("4.2", "Forward Plus")
+config/name="Godot-Utilities"
+config/features=PackedStringArray("4.3", "Forward Plus")
 config/icon="res://icon.svg"
